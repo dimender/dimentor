@@ -1,0 +1,2 @@
+# dimentor
+My first repository
